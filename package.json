@@ -2,8 +2,6 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "description": "A boilrplate react portfolio to showcase your projects and work",
-  "name": "portfolio",
-  "version": "0.1.0",
   "private": true,
   "homepage": "https://gmc-nickies.github.io/react-portfolio",
   "dependencies": {
