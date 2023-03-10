@@ -4,20 +4,6 @@
   "description": "A boilrplate react portfolio to showcase your projects and work",
   "private": true,
   "homepage": "https://gmc-nickies.github.io/react-portfolio",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "gh-pages": "^2.2.0",
-    "jquery": "^3.4.1",
-    "lightbox2": "^2.11.0",
-    "node-sass": "^4.12.0",
-    "normalize.css": "^8.0.1",
-    "popper.js": "^1.15.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^3.3.0",
-    "react-typed": "^1.1.2",
-    "typed.js": "^2.0.10"
-  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -51,7 +37,6 @@
   "bugs": {
     "url": "https://github.com/GMC-Nickies/react-portfolio/issues"
   },
-  "homepage": "https://gmc-nickies.github.io/react-portfolio/",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gh-pages": "^5.0.0",
