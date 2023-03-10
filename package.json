@@ -1,9 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "personalsite",
   "version": "1.0.0",
   "description": "A boilrplate react portfolio to showcase your projects and work",
-=======
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +20,6 @@
     "react-typed": "^1.1.2",
     "typed.js": "^2.0.10"
   },
->>>>>>> 3e2da67bcad1bcc8be21c2d4c28a6c592979efcd
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
